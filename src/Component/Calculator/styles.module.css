@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: center;
+}
+.cal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calc-wrapper {
+  background-color: whitesmoke;
+  border: 2px solid;
+  width: 400px;
+  border-radius: 16px;
+}
+
+.row {
+  display: flex;
+  background-color: #f2f3f5;
+}
